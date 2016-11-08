@@ -3,8 +3,6 @@
   "description": "Build system for reason that conforms to the magic-build spec. Implemented with Jenga.",
   "dependencies": {
     "@opam-alpha/ocamlfind": "*",
-    "@opam-alpha/jenga": "*",
-    "@opam-alpha/yojson": "*",
     "dependency-env": "git+https://github.com/npm-ml/dependency-env.git",
     "nopam": "https://github.com/yunxing/nopam.git",
     "ocamlBetterErrors": "0.0.10",
