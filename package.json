@@ -16,11 +16,6 @@
       "globalCollisionBehavior": "joinPath",
       "resolveAsRelativePath": true,
       "val": "./_build/src/"
-    },
-    "OCAMLPARAM": {
-      "global": true,
-      "globalCollisionBehavior": "clobber",
-      "val": "_,g=0"
     }
   },
   "license": "ISC",
